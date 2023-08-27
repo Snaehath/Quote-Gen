@@ -1,0 +1,47 @@
+body{
+    background-color: #b21e3e;
+}
+div {
+    display:block;
+    max-width: 30em;
+    font-family: "Adobe Caslon Pro";
+    letter-spacing: 0.1em;
+    text-align: center;
+    margin: 40px auto;
+    text-transform: lowercase;
+    font-size: 2em;
+    font-variant: small-caps;
+    padding-top: 5em;
+}
+button{
+    display: block;
+    background-color:#b21e3e;
+    font-family: "Adobe Caslon Pro";
+    letter-spacing: 0.1em;
+    translate:700px;
+    padding-top: 5px;
+    opacity: 0.6;
+    background-color: black;
+    color: white;
+    border: thin solid white;
+    height: 40px;
+    width: 100px;
+    transition: 0.5s;
+    padding-bottom: 5px;
+}
+
+
+button:hover {
+    border: thin solid whitesmoke;
+    opacity: 0.8;
+}
+.left{
+    width: 320px;
+    translate: -7px -400px;
+    opacity: 0.9;
+}
+.right{
+    width: 320px;
+    translate: 864px -400px;
+    opacity: 0.9;
+}
