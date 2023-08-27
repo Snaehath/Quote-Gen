@@ -44,4 +44,5 @@ button:hover {
     width: 320px;
     translate: 864px -400px;
     opacity: 0.9;
+    transform: rotateY(-180deg);
 }
