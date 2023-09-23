@@ -35,14 +35,3 @@ button:hover {
     border: thin solid whitesmoke;
     opacity: 0.8;
 }
-.left{
-    width: 320px;
-    translate: -7px -400px;
-    opacity: 0.9;
-}
-.right{
-    width: 320px;
-    translate: 864px -400px;
-    opacity: 0.9;
-    transform: rotateY(-180deg);
-}
