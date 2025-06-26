@@ -1,3 +1,3 @@
 # Quote-Gen
-Simple Quote Genarator of Deadpool Character
+Simple Quote Genarator
  Click: https://snaehath.github.io/Quote-Gen/
