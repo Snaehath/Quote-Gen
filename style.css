@@ -12,7 +12,7 @@ body {
       rgba(139, 0, 0, 0.7), 
       rgba(139, 0, 0, 0.7)
     ),
-    url('images/D.jpg') no-repeat center center/cover;
+    url('images/bg-img.jpg') no-repeat center center/cover;
   color: white;
   text-align: center;
 }
